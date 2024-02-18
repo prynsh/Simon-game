@@ -23,4 +23,4 @@ Game rules
 10. If you fail to repeat a sequence exactly, or if you take more then 5 seconds to repeat a signal, Simon responds with a "REZZ" sound.  That means you've lost, and the sequence of signals ends. GAME OVER.
 
 11. If you manage to repeat of sequences for skill levels 1, 2, 3,  or 4 and Simon will salute you with six short signals from the last lens you pressed.
-Here is the website for reference and play the Simon game -
+Here is the website for reference and play the Simon game - https://prynsh.github.io/Simon-game/
