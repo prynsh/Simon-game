@@ -3,7 +3,7 @@ Here is the website for reference and play the Simon game - https://prynsh.githu
 
 
 Simon game using HTML,CSS, and javaScript along with jQuery
-Game rules
+### Game rules
 
 1. At the start, Simon's game will randomly give you a signal ( one color will pop up).
 
